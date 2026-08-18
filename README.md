@@ -4,7 +4,7 @@ This is a small app I built for the Wexa AI CognoDB take-home assignment. It's a
 
 Live demo: `https://wexa-six.vercel.app/`
 Backend API: `https://wexa-l34t.onrender.com/api`
-Screen recording: `<add your recording link here>`
+Screen recording: `https://drive.google.com/file/d/1FhaBjLXetzN2u1r4HC6g4Ce3q9P2bQ3A/view?usp=drive_link`
 
 One thing to note: the backend is hosted on Render's free tier, so it spins down when it's idle. If you're trying the demo and it feels slow the first time, that's just the server waking up. It usually takes under a minute.
 
